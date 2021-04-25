@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.exe
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\bin\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC5 CalculateMonthalyWage\obj\Debug\netcoreapp3.1\UC5 CalculateMonthalyWage.genruntimeconfig.cache

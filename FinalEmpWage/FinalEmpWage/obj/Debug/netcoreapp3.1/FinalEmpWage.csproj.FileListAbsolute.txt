@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.AssemblyInfo.cs
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.exe
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.deps.json
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.runtimeconfig.json
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.runtimeconfig.dev.json
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.dll
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\bin\Debug\netcoreapp3.1\FinalEmpWage.pdb
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.dll
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.pdb
+C:\Users\prat\source\repos\FinalEmpWage\FinalEmpWage\obj\Debug\netcoreapp3.1\FinalEmpWage.genruntimeconfig.cache

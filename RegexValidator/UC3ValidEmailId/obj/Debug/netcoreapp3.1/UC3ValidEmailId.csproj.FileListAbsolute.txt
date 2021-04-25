@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.exe
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.deps.json
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.runtimeconfig.json
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.runtimeconfig.dev.json
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.dll
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\bin\Debug\netcoreapp3.1\UC3ValidEmailId.pdb
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.AssemblyInfo.cs
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.dll
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.pdb
+C:\Users\prat\source\repos\RegexValidator\UC3ValidEmailId\obj\Debug\netcoreapp3.1\UC3ValidEmailId.genruntimeconfig.cache

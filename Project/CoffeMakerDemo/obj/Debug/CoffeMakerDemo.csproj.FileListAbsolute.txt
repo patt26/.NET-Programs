@@ -1,0 +1,2 @@
+C:\Users\prat\source\repos\Project\CoffeMakerDemo\obj\Debug\CoffeMakerDemo.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\Project\CoffeMakerDemo\obj\Debug\CoffeMakerDemo.csproj.CoreCompileInputs.cache

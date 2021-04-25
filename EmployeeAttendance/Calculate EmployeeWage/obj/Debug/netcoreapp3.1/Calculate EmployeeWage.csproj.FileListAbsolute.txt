@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.exe
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.deps.json
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.dll
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\bin\Debug\netcoreapp3.1\Calculate EmployeeWage.pdb
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.dll
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.pdb
+C:\Users\prat\source\repos\EmployeeAttendance\Calculate EmployeeWage\obj\Debug\netcoreapp3.1\Calculate EmployeeWage.genruntimeconfig.cache

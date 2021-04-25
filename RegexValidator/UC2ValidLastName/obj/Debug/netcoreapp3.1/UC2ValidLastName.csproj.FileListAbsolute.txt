@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.exe
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.deps.json
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.runtimeconfig.json
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.runtimeconfig.dev.json
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.dll
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\bin\Debug\netcoreapp3.1\UC2ValidLastName.pdb
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.AssemblyInfo.cs
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.dll
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.pdb
+C:\Users\prat\source\repos\RegexValidator\UC2ValidLastName\obj\Debug\netcoreapp3.1\UC2ValidLastName.genruntimeconfig.cache

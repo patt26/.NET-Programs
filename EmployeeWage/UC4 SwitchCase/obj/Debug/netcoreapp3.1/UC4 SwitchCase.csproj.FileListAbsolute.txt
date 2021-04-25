@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.exe
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.dll
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\bin\Debug\netcoreapp3.1\UC4 SwitchCase.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.dll
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.genruntimeconfig.cache
+C:\Users\prat\source\repos\EmployeeWage\UC4 SwitchCase\obj\Debug\netcoreapp3.1\UC4 SwitchCase.csprojAssemblyReference.cache

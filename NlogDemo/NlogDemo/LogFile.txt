@@ -1,0 +1,10 @@
+﻿2021-04-21 16:27:45.6860|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2021-04-21 16:27:45.6997|ERROR|NlogDemo.Nlog|Expecting null values
+2021-04-21 16:27:45.6997|WARN|NlogDemo.Nlog|a or b should not equal to 0
+2021-04-21 16:27:45.6997|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2021-04-21 16:27:45.6997|INFO|NlogDemo.Nlog|Sum method passed, Result2
+2021-04-21 16:28:39.9817|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2021-04-21 16:28:39.9817|ERROR|NlogDemo.Nlog|Expecting null values
+2021-04-21 16:28:39.9817|WARN|NlogDemo.Nlog|a or b should not equal to 0
+2021-04-21 16:28:39.9817|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2021-04-21 16:28:39.9817|INFO|NlogDemo.Nlog|Sum method passed, Result2

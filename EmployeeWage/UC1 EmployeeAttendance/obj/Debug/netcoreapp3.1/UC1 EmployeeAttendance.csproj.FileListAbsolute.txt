@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.exe
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.dll
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\bin\Debug\netcoreapp3.1\UC1 EmployeeAttendance.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.dll
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.genruntimeconfig.cache
+C:\Users\prat\source\repos\EmployeeWage\UC1 EmployeeAttendance\obj\Debug\netcoreapp3.1\UC1 EmployeeAttendance.csprojAssemblyReference.cache

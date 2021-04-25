@@ -1,0 +1,12 @@
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.exe
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\bin\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC2 EmployeeDailyWaage\obj\Debug\netcoreapp3.1\UC2 EmployeeDailyWaage.genruntimeconfig.cache

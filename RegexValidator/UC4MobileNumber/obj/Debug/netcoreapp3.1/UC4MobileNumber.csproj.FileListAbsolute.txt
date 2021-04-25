@@ -1,0 +1,12 @@
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.exe
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.deps.json
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.runtimeconfig.json
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.runtimeconfig.dev.json
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.dll
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\bin\Debug\netcoreapp3.1\UC4MobileNumber.pdb
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.AssemblyInfo.cs
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.dll
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.pdb
+C:\Users\prat\source\repos\RegexValidator\UC4MobileNumber\obj\Debug\netcoreapp3.1\UC4MobileNumber.genruntimeconfig.cache

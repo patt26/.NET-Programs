@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.exe
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.dll
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\bin\Debug\netcoreapp3.1\UC6 EmpWageForMonth.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.dll
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC6 EmpWageForMonth\obj\Debug\netcoreapp3.1\UC6 EmpWageForMonth.genruntimeconfig.cache

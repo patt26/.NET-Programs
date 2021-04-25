@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.exe
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.deps.json
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.dll
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\bin\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.pdb
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.dll
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.pdb
+C:\Users\prat\source\repos\EmployeeAttendance\UC10 ManageEmpWageOfMultipleCompany\obj\Debug\netcoreapp3.1\UC10 ManageEmpWageOfMultipleCompany.genruntimeconfig.cache

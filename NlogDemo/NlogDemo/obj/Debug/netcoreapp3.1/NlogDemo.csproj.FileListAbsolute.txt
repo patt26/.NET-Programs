@@ -1,0 +1,17 @@
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.exe
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.deps.json
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.runtimeconfig.json
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.runtimeconfig.dev.json
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.dll
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NlogDemo.pdb
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.AssemblyInfo.cs
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.csproj.CopyComplete
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.dll
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.pdb
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\obj\Debug\netcoreapp3.1\NlogDemo.genruntimeconfig.cache
+C:\Users\prat\source\repos\NlogDemo\NlogDemo\bin\Debug\netcoreapp3.1\LogFile.txt

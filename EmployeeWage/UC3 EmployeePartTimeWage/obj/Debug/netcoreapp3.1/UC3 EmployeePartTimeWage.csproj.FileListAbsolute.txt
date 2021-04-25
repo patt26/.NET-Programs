@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.exe
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.deps.json
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.runtimeconfig.json
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.runtimeconfig.dev.json
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\bin\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.AssemblyInfo.cs
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.dll
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.pdb
+C:\Users\prat\source\repos\EmployeeWage\UC3 EmployeePartTimeWage\obj\Debug\netcoreapp3.1\UC3 EmployeePartTimeWage.genruntimeconfig.cache

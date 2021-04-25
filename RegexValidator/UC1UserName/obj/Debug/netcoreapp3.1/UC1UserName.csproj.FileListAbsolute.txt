@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.exe
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.deps.json
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.runtimeconfig.json
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.runtimeconfig.dev.json
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.dll
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\bin\Debug\netcoreapp3.1\UC1UserName.pdb
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.AssemblyInfo.cs
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.dll
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.pdb
+C:\Users\prat\source\repos\RegexValidator\UC1UserName\obj\Debug\netcoreapp3.1\UC1UserName.genruntimeconfig.cache

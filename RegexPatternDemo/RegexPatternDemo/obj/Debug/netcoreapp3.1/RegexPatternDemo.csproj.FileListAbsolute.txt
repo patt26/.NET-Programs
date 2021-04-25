@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.exe
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.deps.json
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.runtimeconfig.json
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.runtimeconfig.dev.json
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.dll
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\bin\Debug\netcoreapp3.1\RegexPatternDemo.pdb
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.AssemblyInfo.cs
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.dll
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.pdb
+C:\Users\prat\source\repos\RegexPatternDemo\RegexPatternDemo\obj\Debug\netcoreapp3.1\RegexPatternDemo.genruntimeconfig.cache

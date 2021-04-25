@@ -1,0 +1,13 @@
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.exe
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.deps.json
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.runtimeconfig.json
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.runtimeconfig.dev.json
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.dll
+C:\Users\prat\source\repos\LineComparison\UC2Equality\bin\Debug\netcoreapp3.1\UC2Equality.pdb
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.csprojAssemblyReference.cache
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.AssemblyInfoInputs.cache
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.AssemblyInfo.cs
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.csproj.CoreCompileInputs.cache
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.dll
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.pdb
+C:\Users\prat\source\repos\LineComparison\UC2Equality\obj\Debug\netcoreapp3.1\UC2Equality.genruntimeconfig.cache
